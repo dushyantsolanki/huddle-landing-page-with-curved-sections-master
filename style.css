@@ -56,7 +56,7 @@ button:hover {
   border: none;
   color: white;
 }
-#btn {
+.btn {
   height: 3rem;
   width: 15rem;
   background-color: rgb(220, 35, 121);
@@ -64,7 +64,7 @@ button:hover {
   border-style: none;
   color: white;
 }
-#btn:hover {
+.btn:hover {
   cursor: pointer;
   background-color: rgb(210, 68, 134);
   transition: ease-in 0.3s;
