@@ -230,6 +230,9 @@ input:hover {
 #subscribe-btn:hover {
   background-color: rgb(210, 68, 134);
 }
+.infixe {
+  font-family: "Poppins", sans-serif;
+}
 
 /*  Add Media Query  */
 
